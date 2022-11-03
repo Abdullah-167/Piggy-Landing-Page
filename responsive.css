@@ -1,0 +1,125 @@
+@media only screen and (max-width: 1030px) {
+  .navbar_flex {
+    display: none;
+  }
+  .hamburger_flex {
+    display: flex;
+  }
+  .header_flex {
+    display: block;
+    padding: 0 ;
+    margin: 0;
+  }
+  .header_sec > h1 {
+    width: 100%;
+  }
+  .header_sec > p {
+    width: 100%;
+  }
+  .section_3 {
+    display: block;
+  }
+  .black_man_img > img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .security_flex {
+    display: block;
+  }
+  .section_2_flex {
+    display: block;
+  }
+  .section_2 > p {
+    width: 100%;
+    font-size: 12px;
+  }
+  .section_2 > h2 {
+    width: 100%;
+    font-size: 30px;
+  }
+  .section_2 > a {
+    font-size: 12px;
+  }
+  .blue_bg > h2 {
+    width: 100%;
+    font-size: 30px;
+    padding: 10px 20px 0 20px;
+  }
+  .blue_bg > p {
+    width: 100%;
+    padding: 20px;
+    font-size: 15px;
+  }
+  .section_3_icon {
+    margin: 10px 20px 0 20px;
+  }
+  .section_4_head h2 {
+    font-size: 30px;
+  }
+  .section_4_head > p {
+    width: 100%;
+    font-size: 15px;
+  }
+  .apple_img > img {
+    width: 100%;
+  }
+  .play_img > img {
+       width: 100%;
+  }
+  .section_5 > h2 {
+    width: 100%;
+  }
+  .brands_img > img {
+    width: 100%;
+  }
+  .header_sec > h1 {
+    width: 100%;
+    font-size: 30px;
+  }
+  .header_sec > p {
+    width: 100%;
+    font-size: 15px;
+  }
+  
+}
+@media only screen and (max-width: 1160px) {
+  .Section_1_flex {
+    flex-wrap: wrap;
+  }
+}
+
+@media only screen and (max-width: 870px) {
+  .section_4_flex {
+    display: block;
+  }
+  .section_5_flex {
+    display: block;
+  }
+  .footer_flex {
+    flex-wrap: wrap;
+  }
+  .footer_flex{
+    gap: 30px;
+  }
+}
+@media only screen and (max-width: 1222px) {
+   .main_footer {
+    display: block;
+   }
+   .footer_icon > img{
+    padding: 0;
+  }
+  .footer_icon > h4 {
+    padding: 10px 0 0 0;
+  }
+  .footer_icon > h2 {
+    padding: 10px 0 0 0 ;
+  }
+  .footer_icon > p {
+    padding: 10px 0 0 0 ;
+  }
+  .footer_icon  {
+    margin: 30px 0 0 0;
+  }
+} 
